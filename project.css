@@ -1,0 +1,255 @@
+       /* NAVBAR1   */
+       /* .mohsin-1 {
+           padding-top: 1px;
+           padding-bottom: 1px;
+           padding-left: 50%;
+       }
+
+       .navv {
+           padding-right: 42%;
+       }
+
+       .classh1 {
+           padding: 5px;
+       } */
+
+       /* NAVBAR2 */
+
+       .mohsin {
+           padding: 2% 3%;
+           /* text-color: black; */
+       }
+
+       .nnn {
+           font-size: 1.3rem;
+           color: black;
+           padding: 0% 10px;
+       }
+
+       .dropdown {
+           font-size: 1.3rem;
+       }
+
+       .btnnav {
+           padding: 10px 10px !important;
+           border-radius: 50px;
+       }
+
+       @media(pointer:hover) {
+           .btnnav {
+               padding: 15px 15px;
+               border-radius: 50px;
+           }
+       }
+
+       h1 {
+           font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+           font-size: 6rem;
+       }
+
+       /* SLIDER */
+
+       #testimonials {
+           text-align: left;
+           color: white;
+           background-color: darkgrey;
+       }
+
+       .carousel-item {
+           padding: 15% 15%;
+       }
+
+       /* PHARAGRAPH */
+
+       #pharagraph {
+           text-align: center;
+           padding: 5% 5% 3%;
+           /* color: blue; */
+           /* padding-top: 5%;
+    padding-bottom: 5% */
+       }
+
+       .sam {
+           font-size: 4rem;
+           color: blue;
+       }
+
+       p {
+           font-size: 1.5rem;
+       }
+
+       /* CONTAINERS */
+
+       #container {
+           padding: 0% 3% 10%;
+           margin: 0% 2%;
+       }
+
+       .coll {
+           padding: 0% 3% 10%;
+       }
+
+       .coll1 {
+           padding: 0% 3% 29%;
+       }
+
+       .coll2 {
+           padding: 0% 3% 38%;
+       }
+
+       .coll3 {
+           padding: 0% 3% 25%;
+       }
+
+       .coll4 {
+           padding: 0% 3% 15.5%;
+       }
+
+       .coll5 {
+           padding: 0% 3% 34.5%;
+       }
+
+       .imag {
+           padding: 5% 0%;
+       }
+
+       .coll3,
+       .coll4,
+       .coll5 {
+           margin-top: 8%;
+       }
+
+       .hh3 {
+           font-size: 1.7rem;
+           color: blue;
+       }
+
+       .hh2 {
+           color: blue;
+       }
+
+
+       /* FEATURES */
+
+       #feature {
+           padding: 10% 0;
+           padding-left: 18%;
+           background-color: skyblue;
+       }
+
+       .hhh2 {
+           font-size: 3rem;
+           padding-bottom: 3%;
+       }
+
+       .butt {
+           padding: 1.3% 6%;
+           margin: 0 1%;
+
+           border-radius: 50px;
+       }
+
+       .butt1 {
+           margin-left: 8%;
+       }
+
+       /* SLIDER AGAIN */
+
+       #slide {
+           text-align: left;
+           color: white;
+           background-color: darkgrey;
+
+
+       }
+
+       .btnbtn {
+           color: black;
+       }
+
+       .carousel-item {
+           padding: 12% 15%;
+       }
+
+
+       /* FEATURE1 */
+
+       #feature1 {
+           padding: 4% 3%;
+           background-color: skyblue;
+           color: white;
+       }
+
+       .classs {
+           padding-top: 9%;
+           padding-left: 20%;
+       }
+
+       .search {
+           padding: 1.5% 3%;
+           margin-right: 5%;
+           border-radius: 5px;
+           margin-bottom: 2%;
+       }
+
+       .subscribe {
+           border-radius: 30px;
+           padding: 1.5% 12%;
+       }
+
+       /* GRID */
+
+       #grid {
+           padding: 7% 5% 5%;
+           background-color: rgb(246, 241, 241);
+       }
+
+       .pppp {
+           text-decoration: none;
+           color: black;
+           font-size: 1.3rem;
+       }
+
+       .collll1 {
+           padding-left: 5%;
+       }
+
+       .colll {
+           /* padding-left: 8%; */
+           font-size: 1rem;
+       }
+
+       .collll {
+           padding-left: 5%;
+       }
+
+       .h4strong {
+           font-size: 1.15rem;
+       }
+
+       .numberuk {
+           font-size: 1.2rem;
+       }
+
+       /* FOOTER */
+
+
+       .navvv {
+           padding-left: 10%;
+           padding-top: 2%;
+           color: white;
+       }
+
+       .navvv1 {
+           font-size: 1.1rem;
+       }
+
+       .navvv2 {
+           color: white;
+           font-size: 1.2rem;
+           padding-right: 100px;
+       }
+
+       .navvv3 {
+           color: white;
+       }
